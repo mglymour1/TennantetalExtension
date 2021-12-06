@@ -1,5 +1,4 @@
-cd "C:\Users\mglymour\Dropbox\Maria\TennantResponse"
-
+/* This code calls each of the data simulations, stores the results, and reports the 25th and 97.5th bounds */
 /* Demonstrate that Tennant's specification entails that Y0 affects change in Y */
 set seed 977
 simulate betaCHANGE betaANCOVA betaY1onX true_po_diff CDE effectofY0onchange_WC_0 effectofY0onchange_WC_1, r(1000):do Tennant_IJE_3A_showeffectofY0onchange.do 
