@@ -21,6 +21,6 @@ The other two versions of the simulation calculate rows 1 and 2 of the Table in 
 row 2 adds measurement error on Y0 and Y1) and rows 3 and 4 (row 3 examines a situation in which the direct effect and the effect on change
 are identical, because Y0 has no effect on change, and row 4 adds measurement error to that situation) of the Table in my response.
 
-Simulations match DAGs shown in my response paper: 
+Simulations match DAGs shown in my response (3a=row1, 3b=row2 etc): 
 
 ![image](https://user-images.githubusercontent.com/16063827/144901472-2398f16a-d353-47ca-a4fd-293320c6bc29.png)
